@@ -1,5 +1,5 @@
 num = 2
-while num >2  and num <=8:
+while num >2  and num <= 8:
     print(num)
 
 num += 2
